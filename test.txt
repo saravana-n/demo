@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-testx1
-=======
-testz
->>>>>>> 908cbedd92b4c74d032bcc4d4f192a899b99147a
-
+test1
